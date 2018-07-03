@@ -1,0 +1,3 @@
+function clickBehaviour() {
+    alert("Hola!")
+}
