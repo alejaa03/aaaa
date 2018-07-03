@@ -1,3 +1,3 @@
 function clickBehaviour() {
-    alert("Hola!")
+    alert("Nuevo mensaje a cambiar!")
 }
